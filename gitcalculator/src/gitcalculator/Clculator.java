@@ -18,5 +18,10 @@ public class Clculator {
 		int c=x*y;
 		System.out.println("multiplication is ="+c);
 	}
+
+	public void div() {
+		int c=x/y;
+		System.out.println("division  is ="+c);
+	}
 	
 }
