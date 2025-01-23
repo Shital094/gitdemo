@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	c.add();
 	c.sub();
 	c.mul();
+	c.div();
 }
 }
